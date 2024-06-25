@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11d5da3d-4954-47d7-b853-e6aed04fe241" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/BlockLambdaDemo/BlockLambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/BlockLambdaDemo/NumericFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/BlockLambdaDemo2/BlockLambdaDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/BlockLambdaDemo2/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo/ConstructorRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo/MyFunc2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo2/ConstructorRefDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo2/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo2/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo3/ConstructorRefDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo3/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo3/MyClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ConstructorRefDemo3/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/FunctionalInter/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/GenericFunctionalInterfaceDemo/GenericFunctionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/GenericFunctionalInterfaceDemo/SomeFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/GenericMethodRefDemo/GenericMethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/GenericMethodRefDemo/MyArrayOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/GenericMethodRefDemo/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/InstanceMethWithObjectRefDemo/HighTemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/InstanceMethWithObjectRefDemo/InstanceMethWithObjectRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/InstanceMethWithObjectRefDemo/MyFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaDemo3/LambdaDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaDemo3/NumericTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaExceptionDemo/DoubleNumericArrayFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaExceptionDemo/EmptyArrayException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaExceptionDemo/LambdaExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaExp2/LambdaExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdaExp2/NumericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdasAsArgumentsDemo/LambdasAsArgumentsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/LambdasAsArgumentsDemo/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MathAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodRefDemo2/MethodRefDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodRefDemo2/MyStringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodRefDemo2/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodReferences/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodReferences/MyStringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/MethodReferences/StringFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/TypeWitness/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/UseMethodRef/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/UseMethodRef/UseMethodRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/anonymousinnerclasses/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/anonymousinnerclasses/StatusReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/enums/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/inheritance/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/inheritance/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/innerclasses/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/innerclasses/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/innerclasses/IkmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/localinnerclasses/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/localinnerclasses/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/localinnerclasses/StatusReporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/staticnestedclasses/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/staticnestedclasses/StaticNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/advanceclassdesign/staticnestedclasses/TestColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/annotations/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/annotations/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/annotations/Marker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/annotations/RepeatableAnn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/annotations/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/assertions/AssertionExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/biversions/BIs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/builtin/Consumers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/builtin/Functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/builtin/Predicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/builtin/Suppliers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/CollectionsDotCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/CopyListExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/DefaultSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/DequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/ForEachRemaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/LaundryTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/NavigableMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/NavigableSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/QueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/SplQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/ArrayListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/CollectionsMothusi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/LinkedListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/Listof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/SpliteratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/collections/mothusi/TreeMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/comparing/ComparatorTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/comparing/ComparatorTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/comparing/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/ChronoUnitValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo7DaylightSaving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo8Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/Demo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/datetimeapi/DemoDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/advancedclass/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/advancedclass/Awesome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/advancedclass/EnumComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/advancedclass/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/advancedclass/TestClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/annotations/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/annotations/RepeatableAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/annotations/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/AddToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ArraysCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ArraysCompare2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ArraysMismatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/AsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/BInarySearchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/FunWithArgs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/LinkedHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ListOfListcopyOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ListSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/MapCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/MapComputeIfAbsent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/MapComputeIfPresent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/RemoveNULLElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/collections/ThenComparingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/datetime/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/enums/CoffeeMug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/enums/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/enums/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/flowcontrol/ForSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/flowcontrol/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/generics/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/generics/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/generics/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/generics/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/interfaces/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/interfaces/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/io/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/io/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javaooa/ImplicitlyFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javaooa/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javatypes/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javatypes/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javatypes/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/javatypes/FLoatingDivisionWIthZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/jdbc/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/lambdas/FunctionAndThen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/localization/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/localization/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/nio/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/nio/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/nio/PathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/nio/ResolveSibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/ooa/a/AccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/ooa/a/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/ooa/b/AccessTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/oop/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/oop/Derived.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/optional/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/serialization/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/serialization/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/serialization/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/serialization/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/statics/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/AddElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/CollectorsCounting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/CollectorsJoining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/CollectorsJoining2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/DemoNestedLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/DoubleStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/FilteringStuff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/GroupingByDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/GroupingByDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/GroupingByDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/GroupingByDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/OptionalDoubleToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/ParallelStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/PartitioningByDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/PassImmutableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/PassMutableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/RandomStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/ReduceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/SortIncomparableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/streams/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/stringorstringbuilder/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/stringorstringbuilder/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/stringorstringbuilder/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/stringorstringbuilder/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/systemproperties/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/withoutblocking/ResultWithoutBlockingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enthware/wrappers/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enumtypes/EnumComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enumtypes/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/enumtypes/PrinterType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/exceptions/ChainedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/exceptions/ScanInt5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/exceptions/ScanInt6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/GenConsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/GenIFDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/UtilitiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/generic/WildCardUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/hackerrank/BirthdayCakeCandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/hackerrank/TimeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/instanceofp/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/interfaces/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/interview/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/interview/NumberRangeSummarizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/interview/NumberRangeSummarizerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Bakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedReaderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedReaderDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedReaderDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedWriterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/BufferedWriterDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/DeleteTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/FormattedTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Journey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/ObjSerialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/PrimeReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/PrintStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/PrintWriterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/PrintWriterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/PrintWriterDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Read.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Resume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/SeparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/StreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/StringDotFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/Turing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/WidgetProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/serialize/Serialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/serialize/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/serialize/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/iofundamentals/serialize/Valve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javacompiler/Do.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javacompiler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javacompiler/MyCompiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javacompiler/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/Autoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/Byting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/Floating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/JavaPuzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/Overflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/StreamPuzzle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/javapuzzles/WithoutMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbConnector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbCreateTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbUpdatableResultSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/DbUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/getdriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/jdbc/wrongheader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdaexpressionsmothusi/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdaexpressionsmothusi/LambdaExpressionsMothusi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/AnonymousInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/BookDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/LongToDoubleFunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/functional/LocalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/unaryoperator/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/lambdafunctions/unaryoperator/Doll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/AvailableLocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/AvailableLocalesEnglish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/LocaleDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/LocaleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/LocalizedHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/ResourceBundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/ResourceBundle_ar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/ResourceBundle_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/ResourceBundle_zu.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/control/CandidateLocales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/control/TalkativeResourceBundleControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Cars.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Cars_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Cars_en_CA.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Cars_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Cars_fr_FR.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l3/Buggy_en.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l3/Buggy_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l4/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l4/ResBundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l4/ResBundle_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/l4/ResBundle_en_CA.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/LocalizedBoxOfficeHits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/ResBundle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/ResBundle_en_CA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/ResBundle_it_IT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/ResBundle_zu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/listresourcebundle/ResBundle_zu_PO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/LocalizedHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/ResourceBundle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/ResourceBundle_ar.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/ResourceBundle_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/ResourceBundle_it.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/localization/practice/ResourceBundle_it_IT.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/CreateDeleteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/CreateDirectoryDirectories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/DirectoryStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Example27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Example28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Example29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Example30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FileAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FileAttributes2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FileDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FileMove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilePermissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotCopy2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotFind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotGetOwner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotGetOwner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotNewBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotNewBufferedWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/FilesDotWalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/GetNameCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/IsSameFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/NewBufferedReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Normalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathBasicFileAttributeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathCompare1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathCompare2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathCompareTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathInfo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/PathInfo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/ReadAllLines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/RelativeAbsolutePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Relativize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Resolve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/Resolve2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/SubPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/TheCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/streams/CountEntriesRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/streams/FindFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/streams/ListFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/nio/streams/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/notification/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/numberformat/DemoNumberFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/ocp8Udemy/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/security/MySecretReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/security/SecurityDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/serialization/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/CollectorDemoVenkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/CollectorsToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/CollectorsToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/CollectorsToSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/CollectorsToTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/ComparatorDemoVenkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Consonants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/DemoStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/EvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/FindFirstUse1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/FindFirstUse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/FindMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/FlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/FlatMapDemoVenkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/ForEachOrdered.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/IntStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Java9AndBeyondVenkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/MapAndPeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/MapvsFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/MatchUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/MergeInMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/MethodReferencesVenkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Okay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/OptionalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/OptionalStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Reduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/ReflectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/SortByLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/SortByLengthThenNatural.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/SortingCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/SplitStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/StreamPipelineComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/ToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/UniqueCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/UsingFlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/WordStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/WordsCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/primitives/Boxed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/primitives/DoubleStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/primitives/IntStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/streams/primitives/LongStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/stringnewfeatures/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/stringsplit/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/stringsplit/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/stringsplit/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/stringsplit/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Athlete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/AutocloseableFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Concurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/CountSheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/FloatCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Reindeer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Riddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Swtchinng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/test/animal/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/RaceCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/RunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/UseCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/atomic/AtomicVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/blockingqueue/InterviewProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/blockingqueue/InterviewScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/blockingqueue/InterviewService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/blockingqueue/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/COWList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/COWSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentCollection1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentCollection2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentCollection3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentCollection4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentCollection5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentHaspMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ConcurrentHaspMapExampleAtomic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/concurrentcollections/ModifyingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/countdownlatch/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/MixedDoubleTennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/cyclicbarrier/Player2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/deadlock/Balls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/deadlock/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/deadlock/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/deadlock/Runs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executor/ExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executor/RepeatedExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executor/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executorservicecallable/CallableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executorservicecallable/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/executorservicecallable/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/forkjoin/RecursiveActionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/forkjoin/RecursiveTaskDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/forkjoin/RecursiveTaskDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/forkjoin/SearchList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/join/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/IsStreamParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/PrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/reductions/CorrectStringSplitAndConcatenate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/reductions/StringSplitAndConcatenate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/reductions/StringSplitAndConcatenateParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/reductions/performance/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/parallelstreams/reductions/performance/Parallelism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/questions/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/questions/COWArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/questions/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/scheduledexecutorservice/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/scheduledexecutorservice/BeeperControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/scheduledexecutorservice/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/scheduledexecutorservice/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/scheduledexecutorservice/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/semaphore/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/threads/writelock/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/timeit/TimeIt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/trywithresource/AutoCloseableFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/trywithresource/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/udemytest/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/var/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/vitality/InterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/blessing/xrp/XrpDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/marsrover.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/behaviour/Forward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/behaviour/Reverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/command/ICommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/command/IMoveBehaviour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/concretecommand/CommandRover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/domain/Plateau.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/domain/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/domain/enums/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/domain/enums/Orientation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/domain/enums/Rotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/exceptions/InvalidCommandException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/exceptions/OutOfPlateauException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/exceptions/RotationNullException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/factory/MovementFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/rover/MarsRover2016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/rover/MarsRover2019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/game/marsrover/rover/Rover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/game/marsrover/test/MarsRover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/blessing/test/MarsRover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/marsrover.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/behaviour/Forward.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/behaviour/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/command/ICommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/command/IMoveBehaviour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/concretecommand/CommandRover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/domain/Plateau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/domain/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/domain/enums/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/domain/enums/Orientation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/domain/enums/Rotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/exceptions/InvalidCommandException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/exceptions/OutOfPlateauException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/exceptions/RotationNullException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/factory/MovementFactory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/factory/MovementFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/rover/MarsRover2016.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/rover/MarsRover2019.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/rover/Rover$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/game/marsrover/rover/Rover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/game/marsrover/test/MarsRover.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="1XeNjMCx0xZQbDYDJ2ALxKkmIaS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MathAPI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mothusi/workspace/intellij/ocp17/src/main/java/com/blessing",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/blessing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/blessing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MathAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.blessing.MathAPI" />
+      <module name="marsrover" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.blessing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MathAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11d5da3d-4954-47d7-b853-e6aed04fe241" name="Default Changelist" comment="" />
+      <created>1581402734691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581402734691</updated>
+      <workItem from="1581402738425" duration="462000" />
+      <workItem from="1581437984097" duration="704000" />
+      <workItem from="1581440719383" duration="1827000" />
+      <workItem from="1719308543386" duration="1292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1581402863230">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1581402863230" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1581440852942">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581440852942" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1581440854305">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1680.1010@0.0.1280.680" timestamp="1581402755421" />
+    <state x="348" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581440854305" />
+  </component>
+</project>
